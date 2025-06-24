@@ -2,7 +2,7 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-<img align="right" src="[https://source.unsplash.com/300x300/?web-developer,coding](https://www.google.com/imgres?q=web%20development&imgurl=https%3A%2F%2Fimages.surferseo.art%2F9602bc4b-cfc4-410e-b291-611d478c9d6a.png&imgrefurl=https%3A%2F%2Fscandiweb.com%2Fblog%2Fbasics-of-website-development%2F&docid=l5YFA4hjXDtHzM&tbnid=9nRXbZNq6qzZ3M&vet=12ahUKEwjV59ydg4qOAxXyZ0EAHcd3PK0QM3oECG4QAA..i&w=1200&h=628&hcb=2&ved=2ahUKEwjV59ydg4qOAxXyZ0EAHcd3PK0QM3oECG4QAA)" width="300" alt="Web Developer">
+<img align="right" src="https://spec.nith.ac.in/BLOGS/a1%20(5).jpg" width="300" alt="Web Developer">
 </p>
 
 Hello! I'm **Geneen Mohammad Aljalees**, a passionate **Front-End Web Developer** based in **Gaza, Palestine** 🇵🇸.
