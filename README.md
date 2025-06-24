@@ -2,7 +2,7 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-<img align="right" src="https://raw.githubusercontent.com/abhisekp/portfolio/master/src/assets/undraw_developer_activity_re_39tg.svg" width="300" />
+<img align="right" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-7913.jpg" width="300" alt="About Me">
 </p>
 
 Hello! I'm **Geneen Mohammad Aljalees**, a passionate **Front-End Web Developer** based in **Gaza, Palestine** 🇵🇸.
@@ -26,7 +26,6 @@ I'm a **junior developer**, just starting my journey in web development. I'm dee
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
 </p>
