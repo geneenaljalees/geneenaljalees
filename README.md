@@ -2,7 +2,7 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-<img align="right" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/abhisekp/portfolio/master/src/assets/undraw_developer_activity_re_39tg.svg" width="300" />
 </p>
 
 Hello! I'm **Geneen Mohammad Aljalees**, a passionate **Front-End Web Developer** based in **Gaza, Palestine** 🇵🇸.
@@ -22,7 +22,7 @@ I'm a **junior developer**, just starting my journey in web development. I'm dee
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
