@@ -1,5 +1,5 @@
 <h2 align="center">✨ Welcome to My GitHub Profile ✨</h2>
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 <p align="left">
 <img align="right" src="https://spec.nith.ac.in/BLOGS/a1%20(5).jpg" width="300" alt="Web Developer">
