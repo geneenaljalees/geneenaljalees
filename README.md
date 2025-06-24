@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-  <img align="right" src="https://www.serigor.com/wp-content/uploads/2022/08/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg" width="300" alt="Web Developer"> 
+  <img align="right" src="https://www.hubspot.com/hubfs/web-development.webp" width="300" alt="Web Developer"> 
 </p>
 
 Hello! I'm **Geneen Mohammad Aljalees**, a passionate **Front-End Web Developer** based in **Gaza, Palestine** 🇵🇸.
