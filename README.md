@@ -2,7 +2,7 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-<img align="right" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-7913.jpg" width="300" alt="About Me">
+<img align="right" src="https://source.unsplash.com/300x300/?web-developer,coding" width="300" alt="Web Developer">
 </p>
 
 Hello! I'm **Geneen Mohammad Aljalees**, a passionate **Front-End Web Developer** based in **Gaza, Palestine** 🇵🇸.
