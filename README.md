@@ -1,19 +1,5 @@
 <h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
-<h3 align="center">I'm <strong>Geneen Mohammad Aljalees</strong> — a Front-End Developer from Gaza 🇵🇸</h3>
-
-<p align="center">
-  💻 Passionate about web development & continuous learning  
-  <br />
-  🎯 Focused on building beautiful, user-friendly interfaces
-</p>
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F77EB9,9A60F9&height=100&section=footer" />
-</div>
-
----
 ---
 
 ## 👩‍💻 About Me
