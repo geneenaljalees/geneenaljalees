@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Geneen Mohammad Aljalees</h1>
+<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
+
+<h3 align="center">I'm <strong>Geneen Mohammad Aljalees</strong> — a Front-End Developer from Gaza 🇵🇸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77EB9&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;Based+in+Gaza%2C+Palestine;Always+learning+and+growing+💪" alt="Typing SVG" />
+  💻 Passionate about web development & continuous learning  
+  <br />
+  🎯 Focused on building beautiful, user-friendly interfaces
 </p>
+---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F77EB9,9A60F9&height=100&section=footer" />
+</div>
+
+---
 ---
 
 ## 👩‍💻 About Me
@@ -52,7 +62,7 @@ I'm a **junior developer**, just starting my journey in web development. I'm dee
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/geneenaljalees" target="_blank">
+  <a href="https://www.linkedin.com/in/geneen-aljalees-789884274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:geneen850@gmail.com">
