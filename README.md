@@ -1,5 +1,4 @@
-<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
-
+<h2 align="center">✨ Welcome to My GitHub Profile ✨</h2>
 ## 👩‍💻 About Me
 
 <p align="left">
