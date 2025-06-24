@@ -17,8 +17,6 @@ I'm a **junior developer**, just starting my journey in web development. I'm dee
 
 ## 🛠️ Languages & Tools
 
-## 🛠️ Languages & Tools
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
