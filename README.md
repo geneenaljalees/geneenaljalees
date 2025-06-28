@@ -6,7 +6,7 @@
   <img align="right" src="https://www.hubspot.com/hubfs/web-development.webp" width="300" alt="Web Developer"> 
 </p>
 
-Hello! I'm **Geneen Mohammad Aljalees**, a passionate **Front-End Web Developer** based in **Gaza, Palestine** 🇵🇸.
+Hello! I'm **Geneen Mohammad Aljalees**,a graduate of the Faculty of Information Technology**IT**, **majoring in Multimedia** with an **excellent GPA** and a passionate **Front-End Web Developer** based in **Gaza, Palestine** 🇵🇸.
 
 I'm a **junior developer**, just starting my journey in web development. I'm deeply interested in learning programming languages and frameworks that serve my field.
 
